@@ -1,0 +1,105 @@
+
+body{
+    background-color: #333;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+
+
+h3{
+  color: white;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   
+    border-width: 50%;
+  }
+
+  ul img{
+    height: 50%;
+    width: 50px;
+    float: right;
+   
+
+  }
+
+
+
+   
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+
+
+  .library-img img{
+    height: 350px;
+    width: 100%;
+   
+  }
+
+
+
+  .books img {
+    height: 250px;
+    margin: auto;
+    border: white 2px groove;
+    border-radius: 15%;
+
+  }
+
+
+
+  input[type="text"], select{
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  border: none;
+  font-size: 17px;
+
+}
+
+
+.button- {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  
+}
+
